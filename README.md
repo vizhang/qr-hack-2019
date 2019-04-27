@@ -21,7 +21,6 @@ Routes
 - GET /item  lists all of the items in the DB
 
 Populate Dummy Data for Sunday Dinner
-- we're making the following for dinner:
 0. Cheese Platter - A, B, and C.
 1. Roasted Chicken - Buttermilk base. Oven roasted deliciousness.
 2. Roasted Root Vegetables - Carrots, and maybe some other friends.
@@ -31,3 +30,6 @@ Populate Dummy Data for Sunday Dinner
 
 6. Aperol Spritz - Like sunset in cocktail form
 7. Italian 75 - The Italian cousin of the French 75
+
+Additional To-Do
+- add address field to Store with hmaps: https://medium.com/@webteamu/rails-best-practice-persisting-addresses-in-postgresql-e81329d3db7b
