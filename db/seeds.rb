@@ -46,7 +46,7 @@ eats.items.create([{
 },
 {
   name: 'Niçoise Salad',
-  description: 'We abandoned the rules and bring you one unlike any other.'
+  description: 'We abandoned the rules and bring you a salad unlike any other.'
 },
 {
   name: 'Crème brûlée',
