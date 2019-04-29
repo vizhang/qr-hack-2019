@@ -33,12 +33,12 @@ eats = MenuCategory.find_by(name: 'Eats')
 drinks = MenuCategory.find_by(name: 'Drinks')
 
 eats.items.create([{
-  name: 'Roasted Chicken',
-  description: 'Buttermilk base. Oven roasted deliciousness.'
+  name: 'Cheese Menagerie',
+  description: 'Kaasaggio (originale), Gouda (double cream, Spring Koe), and Manchego (Aged 6-months, El Trigal).'
 },
 {
-  name: 'Roasted Root Vegetables',
-  description: 'Carrots, and maybe some other friends.'
+  name: 'Roasted Chicken',
+  description: 'Buttermilk base. Oven roasted deliciousness.'
 },
 {
   name: 'Chicken Risotto',
