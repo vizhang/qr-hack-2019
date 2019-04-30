@@ -13,11 +13,6 @@ amazon:
   secret_access_key: <%= ENV['AWS_S3_SECRET_ACCESS_KEY'] %>
   bucket: <%= ENV['PHOTO_UPLOAD_BUCKET'] %>
 
-  # The Following Works
-  #access_key_id: "AKIAT7IM32AWCZZ33XWO"
-  #secret_access_key: "fKhg2SXCDXhHjRKKgX36OSb0Soo8zlq0qqaAJrsv"
-  #bucket: "qr-hack-1"
-
 # Remember not to checkin your GCS keyfile to a repository
 # google:
 #   service: GCS
