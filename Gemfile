@@ -33,6 +33,9 @@ gem 'jbuilder', '~> 2.5'
 # Use AWS for ActiveStorage image hosting
 gem 'aws-sdk', '~> 3.0'
 
+# Use dotenv for ENV variables
+gem 'dotenv-rails'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
